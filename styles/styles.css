@@ -17,19 +17,19 @@
 
 @keyframes bgfade {
     16% {
-        background-image: url("/images/cook.png");
+        background-image: url("./images/cook.png");
     }
 
     32% {
-        background-image: url(/images/trainerchauffeur.png);
+        background-image: url(./images/trainerchauffeur.png);
     }
 
     48% {
-        background-image: url(/images/green.png);
+        background-image: url(./images/green.png);
     }
 
     64% {
-        background-image: url(/images/bine2najjar.png);
+        background-image: url(./images/bine2najjar.png);
     }
 
     80% {
@@ -37,6 +37,6 @@
     }
 
     100% {
-        background-image: url(/images/engineer.png);
+        background-image: url(./images/engineer.png);
     }
 }
